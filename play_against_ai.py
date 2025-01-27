@@ -65,5 +65,5 @@ def play_game(model_path):
 
 if __name__ == "__main__":
     # Example usage: python play_game.py
-    model_checkpoint = "models/connect4_model_10000.pth"
+    model_checkpoint = "models/connect4_model_90000.pth"
     play_game(model_checkpoint)
